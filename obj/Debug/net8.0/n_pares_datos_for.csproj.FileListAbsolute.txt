@@ -1,0 +1,14 @@
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/n_pares_datos_for.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/n_pares_datos_for.AssemblyInfoInputs.cache
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/n_pares_datos_for.AssemblyInfo.cs
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/n_pares_datos_for.csproj.CoreCompileInputs.cache
+/home/luis/Documentos/CSharp/n_pares_datos_for/bin/Debug/net8.0/n_pares_datos_for
+/home/luis/Documentos/CSharp/n_pares_datos_for/bin/Debug/net8.0/n_pares_datos_for.deps.json
+/home/luis/Documentos/CSharp/n_pares_datos_for/bin/Debug/net8.0/n_pares_datos_for.runtimeconfig.json
+/home/luis/Documentos/CSharp/n_pares_datos_for/bin/Debug/net8.0/n_pares_datos_for.dll
+/home/luis/Documentos/CSharp/n_pares_datos_for/bin/Debug/net8.0/n_pares_datos_for.pdb
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/n_pares_datos_for.dll
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/refint/n_pares_datos_for.dll
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/n_pares_datos_for.pdb
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/n_pares_datos_for.genruntimeconfig.cache
+/home/luis/Documentos/CSharp/n_pares_datos_for/obj/Debug/net8.0/ref/n_pares_datos_for.dll
